@@ -4,7 +4,7 @@ const data = {
             _id:'1',
             name: 'Camera',
             category: 'Cameras',
-            image: '/images/camera.jpg',
+            image: '/images/camera2.jpg',
             price: 120,
             countinStock:6,
             brand: 'Nikon',
